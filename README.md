@@ -15,12 +15,11 @@
 
 ### ℹ️ Bot Prefix  
 The default command prefix is: `!`  
-Example: `!ping`, `!menu`, `!help` - Dont Specify PREFIX in env if intend on using the !setprefix cmd
-+ Fork Edit Deploy
+Example: `!ping`, `!menu`, `!help`
 
 ### 🧩 Session ID Generators
-[![Server 1](https://img.shields.io/badge/Pair_Device_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-link-1.com)
-[![Server 2](https://img.shields.io/badge/Pair_Device_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-link-2.com)
+[![Server 1](https://img.shields.io/badge/Pair_Device_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://levi.zone.id)
+[![Server 2](https://img.shields.io/badge/Pair_Device_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://scan-f56q.onrender.com)
 
 ### ☁️ Pterodactyl / Cloud Hosting  
 [![Katabump](https://img.shields.io/badge/Katabump-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://katabump.com)
@@ -30,8 +29,8 @@ Example: `!ping`, `!menu`, `!help` - Dont Specify PREFIX in env if intend on usi
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
 ### 💬 Join Our Communities
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourchannel)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourgroup)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reikertechtools)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VasyE7u2v1Ijck0HDf2C)
 
 </div>
 
@@ -78,7 +77,7 @@ node index.js
 
 <div align="center">
   <h3>🚀 Ready to Deploy?</h3>
-  <a href="https://github.com/yourusername/yourrepo/archive/refs/heads/main.zip">
+  <a href="https://github.com/ReirLair/Levi-Md/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download_Now!-brightgreen?style=for-the-badge&logo=download&logoColor=white"/>
   </a>
 </div>
@@ -88,7 +87,7 @@ node index.js
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=blueviolet&style=flat" alt="Visitor Count"/>
   <br/>
-  Made with ❤️ by <b>YourName</b> | 
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://t.me/yourchannel">Telegram</a>
+  Made with ❤️ by <b>Reiker</b> | 
+  <a href="https://github.com/ReirLair">GitHub</a> •
+  <a href="https://t.me/reikertechtools">Telegram</a>
 </div>
