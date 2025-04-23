@@ -22,7 +22,7 @@ Example: `!ping`, `!menu`, `!help`
 [![Server 2](https://img.shields.io/badge/Pair_Device_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://scan-f56q.onrender.com)
 
 ### ☁️ Pterodactyl / Cloud Hosting  
-[![Katabump](https://img.shields.io/badge/Katabump-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://katabump.com)
+[![Katabump](https://img.shields.io/badge/Katabump-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dashboard.katabump.com/auth/login#1aa571)
 [![Bot-Hosting](https://img.shields.io/badge/Bot_Hosting-FF6C37?style=for-the-badge&logo=serverless&logoColor=white)](https://bot-hosting.com)
 [![OptiLink](https://img.shields.io/badge/OptiLink-00A98F?style=for-the-badge&logo=linktree&logoColor=white)](https://optilink.com)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
