@@ -15,7 +15,7 @@ module.exports = {
   prefix: process.env.PREFIX || '!',
   thumbnail: process.env.THUMBNAIL || '/home/container/user_data/7365381557/Test/thumbnail.jpg',
   OWNER_NUMBER: process.env.OWNER_NUMBER || '2348012345678',
-  SESSION_ID: process.env.SESSION_ID || '', // Put session id in the '' before the , paste session id it it
+  SESSION_ID: process.env.SESSION_ID || 'LEVI751971II1RRUZ0', // Put session id in the '' before the , paste session id it it
   presence: process.env.PRESENCE || '', // can be 'available' 'recording' 'composing' composing for typing 'unavailable' for offline
   port: process.env.PORT || 3000 // Added port configuration with default 3000
 };
